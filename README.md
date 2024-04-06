@@ -2,7 +2,8 @@ Project Title: HTML/CSS Amazon Replica: Recreating the E-commerce Experience.
 
 Description:
 In this project, I undertook the task of recreating the Amazon website using HTML tags and CSS styling. 
-Leveraging fundamental HTML elements such as <p>, <title>, <img>, <a>, <body>, <header>, <footer>, <div>,
+Leveraging fundamental HTML elements such as paragraph tag, tittle tag, image tag, anchor tag, div tag
+body tag, header tag, footer tag.
 and more, I meticulously constructed the structure and layout of the website. Additionally, I applied CSS
 styling techniques to replicate the visual appearance and user interface of the original Amazon website, 
 ensuring a seamless and familiar browsing experience for users.
